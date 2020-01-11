@@ -1,37 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-						<contenidos><frase>
-				<id>2142079</id>
-				<codigo>2_16_1_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[Good idea, good old Phil will help me out. Technically, he didn't fire me yet...]]></texto>
-				<transicion>0</transicion>
-				<emocion>NEUTRO</emocion>
-			</frase><frase>
-				<id>21410380</id>
-				<codigo>2_16_2_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[I'm not gonna destroy a gum machine.]]></texto>
-				<transicion>0</transicion>
-				<emocion>NEUTRO</emocion>
-			</frase><frase>
-				<id>2142095</id>
-				<codigo>2_18_1_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[Wow, I just keep gettin' better!@@1.85# Although it sucks the only thing I remember is Sally and Matt's cheesy wedding shower.@@6.78# Partying in the office must've been really wild.@@9.74# I gotta get my hands on those tapes.]]></texto>
-				<transicion>0</transicion>
-				<emocion>ALEGRE</emocion>
-			</frase><frase>
-				<id>2142771</id>
-				<codigo>2_18_2_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[I don't think it's wise to go in there again.]]></texto>
-				<transicion>0</transicion>
-				<emocion>NEUTRO</emocion>
-			</frase><frase>
-				<id>2142532</id>
-				<codigo>2_28_1_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[I guess old Phil went home already.]]></texto>
-				<transicion>0</transicion>
-				<emocion>NEUTRO</emocion>
-			</frase></contenidos>
+<?xml version="1.0" encoding="UTF-8"?>
+<contenidos>
+    <frase>
+        <id>2142079</id>
+        <codigo>2_16_1_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[Good idea, good old Phil will help me out. Technically, he didn't fire me yet...]]></texto>
+        <transicion>0</transicion>
+        <emocion>NEUTRO</emocion>
+    </frase>
+    <frase>
+        <id>21410380</id>
+        <codigo>2_16_2_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[I'm not gonna destroy a gum machine.]]></texto>
+        <transicion>0</transicion>
+        <emocion>NEUTRO</emocion>
+    </frase>
+    <frase>
+        <id>2142095</id>
+        <codigo>2_18_1_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[Wow, I just keep gettin' better!@@1.85# Although it sucks the only thing I remember is Sally and Matt's cheesy wedding shower.@@6.78# Partying in the office must've been really wild.@@9.74# I gotta get my hands on those tapes.]]></texto>
+        <transicion>0</transicion>
+        <emocion>ALEGRE</emocion>
+    </frase>
+    <frase>
+        <id>2142771</id>
+        <codigo>2_18_2_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[I don't think it's wise to go in there again.]]></texto>
+        <transicion>0</transicion>
+        <emocion>NEUTRO</emocion>
+    </frase>
+    <frase>
+        <id>2142532</id>
+        <codigo>2_28_1_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[I guess old Phil went home already.]]></texto>
+        <transicion>0</transicion>
+        <emocion>NEUTRO</emocion>
+    </frase>
+</contenidos>
