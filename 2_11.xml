@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+						<contenidos><frase>
+				<id>2111611</id>
+				<codigo>2_7_1_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Well, well, well... if it isn't the "businessbum"...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111612</id>
+				<codigo>2_7_1_2</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[How do you like my office? My decorator said it should have a more urban-casual look.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111613</id>
+				<codigo>2_7_1_3</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Oh, yeah, lovely. Very tasteful, but...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111617</id>
+				<codigo>2_7_1_4</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[You better start explaining everything about that curse you say is on me... what the hell is that all about?]]></texto>
+				<transicion>0</transicion>
+				<emocion>ENFADADO</emocion>
+			</frase><frase>
+				<id>2111673</id>
+				<codigo>2_7_1_5</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[We all struggle to define ourselves;@@3.33# to live our lives with some sense of balance,@@6.74# with one foot in the past, and the other reaching...@@11.16# for an uncertain future...]]></texto>
+				<transicion>1</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111674</id>
+				<codigo>2_7_1_6</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I'm starting to get really tired of all these lame TV show life lessons.@@6.04# Why can't you just say something coherent for once?@@8.74# I mean, I know you're a bum and all@@10.78# and sometimes you just need to yell stuff at people.@@13.1# But I'm sure you know more than you're letting on...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111675</id>
+				<codigo>2_7_1_7</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[I know a lot of things...@@1.81# Our yesterdays are like a string of pearls: unbroken, unchanging...@@8.76# but if we could change our past,@@11.62# would that also change who we are? ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111676</id>
+				<codigo>2_7_1_8</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Do you know what you should do? You should just... umm, I don't know, switch channels.@@4.5# All those Sci-Fi shows are seriously messing up your brain... even more, I mean. ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111677</id>
+				<codigo>2_7_1_9</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Oh, yeah, look who's talking, the guy that can't even perceive@@4.22# the dangerous time-space alterations that are happening around him...@@8.57# Look, pal, I don't care about your curse,@@11.59# but be careful with what you touch out there, OK?@@15.83# Don't say I didn't warn you. ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112667</id>
+				<codigo>2_7_1_10</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[See? Now you're talking again about curses and space-time continuums.@@4.55# Maybe you just need more fiber in your diet.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112668</id>
+				<codigo>2_7_1_11</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[...We have always been fascinated with the prospect of renewal. @@4.82#Built into the very fabric of our self-conscious is the desire for resurrection... @@12.01#a rebirth of body and soul... a second chance!]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112669</id>
+				<codigo>2_7_1_12</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Are you done with your cheap philosophy? OK... why are you the only one who understands what's happening to me?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112670</id>
+				<codigo>2_7_1_13</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Because I've been there, boy...@@2.61# listen, everything you touch gets marked. Cursed, like you are.@@8.06# Doomed to repeat itself and yet to remain unchanged.@@12.41# In this world and in any other world.@@15.24# Right here and right now.@@18.83# Everything you touch keeps rewriting the past so the present we know doesn't get torn apart.@@26.21# A present that's the same and yet different at the same time.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112671</id>
+				<codigo>2_7_1_14</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[My God... I didn't get any of that.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112672</id>
+				<codigo>2_7_1_15</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[All in good time, my friend... if you need more clues, just go back to the place where it all began...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112673</id>
+				<codigo>2_7_1_16</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Clayton's?]]></texto>
+				<transicion>0</transicion>
+				<emocion>SORPRENDIDO</emocion>
+			</frase><frase>
+				<id>2112674</id>
+				<codigo>2_7_1_17</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[You're the only one who knows...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2119965</id>
+				<codigo>2_7_1_18</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[OK, I'll stop by as soon as I can.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111614</id>
+				<codigo>2_7_1_19</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Do you know anything about hangovers so brutal they can alter the space-time continuum?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111619</id>
+				<codigo>2_7_1_20</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Well... have you ever heard of counterwise wine? It's pretty strong.@@6.28# You get drunk hours before actually drinking it.@@9.81# You could have like the worst hangover ever@@12.48# without even knowing what's going on.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111622</id>
+				<codigo>2_7_1_21</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[You just made that up, didn't you?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111623</id>
+				<codigo>2_7_1_22</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[No, I didn't! I read it in a book.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111624</id>
+				<codigo>2_7_1_23</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Oh, sure, because everybody knows Mr. Pratchett's work is based solely on real events.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111625</id>
+				<codigo>2_7_1_24</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Hey, don't mess with me... I'm talking about wine...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111615</id>
+				<codigo>2_7_1_25</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[As my landlord would say... do you know what day it is?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111630</id>
+				<codigo>2_7_1_26</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[No.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111631</id>
+				<codigo>2_7_1_27</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I mean is it Monday, Tuesday...? ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111632</id>
+				<codigo>2_7_1_28</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[I said I don't know.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112676</id>
+				<codigo>2_7_1_29</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[It's just that I have this feeling I'm reliving the same day all over again.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112677</id>
+				<codigo>2_7_1_30</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[I know the feeling, buddy.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112678</id>
+				<codigo>2_7_1_31</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Really? You do?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112679</id>
+				<codigo>2_7_1_32</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Of course! Look at me, always surrounded by boxes,@@4.82# going from one alley to another waiting for some African prince to stop by and give me an envelope...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112680</id>
+				<codigo>2_7_1_33</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Ughh... I don't know why I keep talking to you.]]></texto>
+				<transicion>0</transicion>
+				<emocion>ENFADADO</emocion>
+			</frase><frase>
+				<id>2112681</id>
+				<codigo>2_7_1_34</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Because I have all the answers you're looking for. But... do you have the right questions?  ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112683</id>
+				<codigo>2_7_1_35</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Do I have the right questions?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112688</id>
+				<codigo>2_7_1_36</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[You do, only you don't know it yet.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112689</id>
+				<codigo>2_7_1_37</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[What's that supposed to mean?]]></texto>
+				<transicion>0</transicion>
+				<emocion>SORPRENDIDO</emocion>
+			</frase><frase>
+				<id>2112690</id>
+				<codigo>2_7_1_38</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Nothing... I was just trying to sound smart.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112691</id>
+				<codigo>2_7_1_39</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Well, mission failed, pal.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112684</id>
+				<codigo>2_7_1_40</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Am I trapped in time?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112692</id>
+				<codigo>2_7_1_41</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[That's not the question. The question is, where are you right now? ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112693</id>
+				<codigo>2_7_1_42</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[OK, where am I?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112694</id>
+				<codigo>2_7_1_43</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[You're here, in the alley, can't you tell?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112695</id>
+				<codigo>2_7_1_44</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I can't believe I fell for that one...]]></texto>
+				<transicion>0</transicion>
+				<emocion>ENFADADO</emocion>
+			</frase><frase>
+				<id>2112685</id>
+				<codigo>2_7_1_45</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Am I dead?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112696</id>
+				<codigo>2_7_1_46</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[No, people would find that really disappointing.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112697</id>
+				<codigo>2_7_1_47</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[What people? ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112698</id>
+				<codigo>2_7_1_48</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Nevermind...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112686</id>
+				<codigo>2_7_1_49</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[On another note...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112687</id>
+				<codigo>2_7_1_50</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I think I better leave before you start talking about Isaac Asimov's laws of robotics... I'll see you around. ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112699</id>
+				<codigo>2_7_1_51</codigo>
+				<personaje>Vagabundo</personaje>
+				<texto><![CDATA[Yeah, you will...  cursey...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112700</id>
+				<codigo>2_7_1_52</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Dude, don't start that again...]]></texto>
+				<transicion>0</transicion>
+				<emocion>ENFADADO</emocion>
+			</frase><frase>
+				<id>2111618</id>
+				<codigo>2_7_1_53</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Oh, I just remembered, I need to do ANYTHING else. Bye. ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2111692</id>
+				<codigo>2_7_2_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Um... about that thing we were discussing before... ]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2112713</id>
+				<codigo>2_7_3_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I don't think he has anything left to say... thank God.@@2.95# The only thing I got is that I might find some answers in the bar...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21110358</id>
+				<codigo>2_7_4_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[It was a gift, it would be rude to give it back.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118880</id>
+				<codigo>2_27_1_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Excuse me...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118881</id>
+				<codigo>2_27_1_2</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[What the fuck do you want, kid?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118882</id>
+				<codigo>2_27_1_3</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Uhhhh... I just wanted to ask you somethin'...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118883</id>
+				<codigo>2_27_1_4</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Come on, shoot. I'm waiting for a delivery so I can't waste any time.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118884</id>
+				<codigo>2_27_1_5</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Uhhh... OK... do you... uh... have any idea how can I force open a security lock?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118885</id>
+				<codigo>2_27_1_6</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Do I look like someone who knows about that kinda stuff?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118886</id>
+				<codigo>2_27_1_7</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I'd hate to be a smartass but... have you ever looked at yourself in a mirror?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118887</id>
+				<codigo>2_27_1_8</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Are you calling me a thief, right to my face?]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118888</id>
+				<codigo>2_27_1_9</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[No, no, no, no... I would never... although... yeah, I am.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118889</id>
+				<codigo>2_27_1_10</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Hahaha! Well, at least you're honest. I like that.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118890</id>
+				<codigo>2_27_1_11</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Of course, I'm just adorable.]]></texto>
+				<transicion>0</transicion>
+				<emocion>ALEGRE</emocion>
+			</frase><frase>
+				<id>2118891</id>
+				<codigo>2_27_1_12</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Don't push your luck, kid.@@1.46# And, uh, about that lock... what can I say...?@@4.49# Get yourself a good lock pick.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118892</id>
+				<codigo>2_27_1_13</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I wish it was that easy.]]></texto>
+				<transicion>0</transicion>
+				<emocion>ENFADADO</emocion>
+			</frase><frase>
+				<id>2118893</id>
+				<codigo>2_27_1_14</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Well it is, actually. A lock pick is not a space shuttle.@@3.23# All you need is a couple of small metallic rods with the right shape.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118894</id>
+				<codigo>2_27_1_15</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[That sounds easy enough.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118895</id>
+				<codigo>2_27_1_16</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Well, that's what I'm saying. And now if you don't mind, get outta here, I'm busy.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118896</id>
+				<codigo>2_27_1_17</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Very well. Thank you very much, Mr. Thief.]]></texto>
+				<transicion>0</transicion>
+				<emocion>ALEGRE</emocion>
+			</frase><frase>
+				<id>2118897</id>
+				<codigo>2_27_1_18</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Hey, I told you not to push your luck, kid...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118898</id>
+				<codigo>2_27_1_19</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Oh... my bad. Bye for now.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>2118899</id>
+				<codigo>2_27_2_1</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[He told me what to do already.@@1.76# I just need two correctly shaped small metallic rods and there's my lock pick.@@5.87# Piece of cake.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111069</id>
+				<codigo>2_27_3_1</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[If you modify the shape a little, this might work.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111073</id>
+				<codigo>2_27_3_2</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[I see...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111070</id>
+				<codigo>2_27_4_1</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[Looks good, but... it is missing something.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111075</id>
+				<codigo>2_27_4_2</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[OK, alright... I get it.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111071</id>
+				<codigo>2_27_5_1</codigo>
+				<personaje>Ladron</personaje>
+				<texto><![CDATA[A very good job.]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase><frase>
+				<id>21111074</id>
+				<codigo>2_27_5_2</codigo>
+				<personaje>Randal</personaje>
+				<texto><![CDATA[Thanks, I guess that's an honor, coming from you...]]></texto>
+				<transicion>0</transicion>
+				<emocion>NEUTRO</emocion>
+			</frase></contenidos>
