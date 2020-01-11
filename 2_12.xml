@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-						<contenidos><frase>
-				<id>2122778</id>
-				<codigo>2_9_1_1</codigo>
-				<personaje>Randal</personaje>
-				<texto><![CDATA[I don't really feel like talking to her right now...]]></texto>
-				<transicion>0</transicion>
-				<emocion>NEUTRO</emocion>
-			</frase></contenidos>
+<?xml version="1.0" encoding="UTF-8"?>
+<contenidos>
+    <frase>
+        <id>2122778</id>
+        <codigo>2_9_1_1</codigo>
+        <personaje>Randal</personaje>
+        <texto><![CDATA[I don't really feel like talking to her right now...]]></texto>
+        <transicion>0</transicion>
+        <emocion>NEUTRO</emocion>
+    </frase>
+</contenidos>
